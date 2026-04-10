@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://doctornomad.org/", // replace this with your deployed domain
+  website: "https://kkullog.org/", // replace this with your deployed domain
   author: "꿀로그(Kkul-log)",
   profile: "/",
   desc: "세상의 모든 매력적인 아이템을 한눈에! IT 기기부터 맛있는 식품까지, 당신의 현명한 쇼핑을 돕는 꿀같은 정보를 배달해 드립니다.",
