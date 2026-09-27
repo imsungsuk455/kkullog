@@ -12,9 +12,9 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false, // 승인 심사 중에는 GitHub 편집 링크 노출 금지
     text: "페이지 수정",
-    url: "https://github.com/imsungsuk455/weblog/edit/main/",
+    url: "https://github.com/imsungsuk455/kkullog/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
